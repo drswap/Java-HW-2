@@ -6,7 +6,7 @@ public class Main {
         ticketAmount= 19555;
         Bonus= ticketAmount/each_Bonus;
 
-       
+
         System.out.println("Стоимость билета =" + ticketAmount);
         System.out.println ("Мили за перелёты =" + Bonus);
 
