@@ -1,14 +1,14 @@
 public class Main {
 
-    public static void main(String[] args){
-        int ticketAmount,Bonus;
-        int each_Bonus = 20;
-        ticketAmount= 19555;
-        Bonus= ticketAmount/each_Bonus;
+    public static void main(String[] args) {
+        int ticketAmount, Вonus;
+        int eachBonus = 20;
+        ticketAmount = 19555;
+        Вonus = ticketAmount / eachBonus;
 
 
         System.out.println("Стоимость билета =" + ticketAmount);
-        System.out.println ("Мили за перелёты =" + Bonus);
+        System.out.println("Мили за перелёты =" + Вonus);
 
 
     }
